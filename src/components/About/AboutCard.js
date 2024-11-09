@@ -11,9 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Renish Thesiya </span>
             from <span className="purple"> Pune, India.</span>
             <br />
-            I am currently a student and Software Developer.
+            I am currently student and Software Devloper.
             <br />
-            I am pursuing Computer Science Engineering  at SIT
+            I have completing Computer Science Engineering  at SIT
             Pune.
             <br />
             <br />
@@ -24,7 +24,7 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Investing in Stock Market
+              <ImPointRight /> Learning Stock Market
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling

@@ -19,14 +19,14 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Passsionate Computer Science Student with hands on experience on projects using skills like
+              Passsionate Computer Science Studnets and hand on experience and Softeare Projects skilled
               <br />
               <i>
                 <b className="purple"> C++, java, Javascript and MYSQL. </b>
               </i>
               <br />
               <br />
-              My field of Interests are building new &nbsp;
+              My field of Interest's are building new &nbsp;
               <i>
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
